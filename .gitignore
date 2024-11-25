@@ -1,3 +1,11 @@
+# Ignore macOS system files
 .DS_Store
+
+# Ignore the input video file
 input.mp4
-/output
+
+# Ignore all files inside the output directory
+output/*
+
+# But do not ignore the output directory itself
+!output/
