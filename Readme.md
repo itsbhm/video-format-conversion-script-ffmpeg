@@ -23,7 +23,7 @@ This is a Bash script that allows you to convert an MP4 video file to various ou
    Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/video-format-conversion.git
+   git clone https://github.com/itsbhm/video-format-conversion-script-ffmpeg
    cd video-format-conversion
    ```
 
